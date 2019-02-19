@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AED2865E-4610-47C7-8B69-35CDFBF7CD8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImagenForm</RootNamespace>
+    <AssemblyName>ImagenForm</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMosaico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>FormMosaico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmoji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmoji.Designer.cs">
+      <DependentUpon>FormEmoji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAcercaDe.Designer.cs">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormContenidoDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormContenidoDB.Designer.cs">
+      <DependentUpon>FormContenidoDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetalles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetalles.Designer.cs">
+      <DependentUpon>FormDetalles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGuardar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGuardar.Designer.cs">
+      <DependentUpon>FormGuardar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIntensidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIntensidad.Designer.cs">
+      <DependentUpon>FormIntensidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMarco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMarco.Designer.cs">
+      <DependentUpon>FormMarco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPixelar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPixelar.Designer.cs">
+      <DependentUpon>FormPixelar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRecortarImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRecortarImg.Designer.cs">
+      <DependentUpon>FormRecortarImg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVoltear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVoltear.Designer.cs">
+      <DependentUpon>FormVoltear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImagenDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImagenDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Presentaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentaciones.Designer.cs">
+      <DependentUpon>Presentaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Referencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referencia.Designer.cs">
+      <DependentUpon>Referencia.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAcercaDe.resx">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormContenidoDB.resx">
+      <DependentUpon>FormContenidoDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetalles.resx">
+      <DependentUpon>FormDetalles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmoji.resx">
+      <DependentUpon>FormEmoji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGuardar.resx">
+      <DependentUpon>FormGuardar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIntensidad.resx">
+      <DependentUpon>FormIntensidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMarco.resx">
+      <DependentUpon>FormMarco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMosaico.resx">
+      <DependentUpon>FormMosaico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPixelar.resx">
+      <DependentUpon>FormPixelar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRecortarImg.resx">
+      <DependentUpon>FormRecortarImg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVoltear.resx">
+      <DependentUpon>FormVoltear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentaciones.resx">
+      <DependentUpon>Presentaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Referencia.resx">
+      <DependentUpon>Referencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ImagenDBDataSet.xsc">
+      <DependentUpon>ImagenDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ImagenDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ImagenDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ImagenDBDataSet.xss">
+      <DependentUpon>ImagenDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ImagenLib\ImagenLib.csproj">
+      <Project>{A0B33261-7FB9-48D8-A36B-A4A4DCA37EF0}</Project>
+      <Name>ImagenLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

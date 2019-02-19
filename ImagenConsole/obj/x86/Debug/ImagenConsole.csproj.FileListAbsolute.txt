@@ -1,0 +1,112 @@
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyectov6\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyectov7\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Final\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Final\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Final\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Final\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Final\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Final\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Final\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\IEUser\Desktop\Final\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Final\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Final\ImagenConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Final\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\IEUser\Desktop\Final\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\bin\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\bin\Debug\ImagenConsole.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\obj\x86\Debug\ImagenConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\obj\x86\Debug\ImagenConsole.exe
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenConsole\obj\x86\Debug\ImagenConsole.pdb

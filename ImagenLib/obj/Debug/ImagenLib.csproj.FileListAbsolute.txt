@@ -1,0 +1,73 @@
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov6\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov6\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov6\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov7\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov7\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov7\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ImagenLib.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenLib\obj\Debug\ImagenLib.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Final\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Final\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Final\ImagenLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Final\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Final\ImagenLib\obj\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenLib\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenLib\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenLib\obj\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenLib\obj\Debug\ImagenLib.pdb

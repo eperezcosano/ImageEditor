@@ -1,0 +1,342 @@
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\izan.perez\Desktop\Proyectov2\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\izan.perez\Desktop\Proyectov3\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\izan.perez\Desktop\Proyectov4\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\izan.perez\Desktop\Proyectov5\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyectov6\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyectov7\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\SUHAIL\Desktop\Proyecto 0 (17 abril)\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Proyecto 0 (Final Version)\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 23-04-2017\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 26.04.2017\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 01.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortar.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 03.05.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortar.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortar.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Proyecto 07.05.2017\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortar.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.Presentaciones.resources
+C:\Users\SUHAIL\Desktop\Prototipo 1\ImagenForm\obj\x86\Debug\ImagenForm.Referencia.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Final\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\IEUser\Desktop\Final\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\IEUser\Desktop\Final\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\IEUser\Desktop\Final\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortarImg.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Presentaciones.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Referencia.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormEmoji.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormEmoji.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortarImg.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Presentaciones.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.Referencia.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Final\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Final\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Final\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormMosaico.resources
+C:\Users\Sergio\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormPixelar.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormMosaico.resources
+C:\Users\IEUser\Desktop\Final\ImagenForm\obj\x86\Debug\ImagenForm.FormPixelar.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\bin\Debug\ImagenForm.exe
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\bin\Debug\ImagenForm.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\bin\Debug\ImagenLib.dll
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\bin\Debug\ImagenLib.pdb
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormAcercaDe.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormContenidoDB.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormDetalles.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormEmoji.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormGuardar.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormIntensidad.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormMarco.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormMosaico.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormPixelar.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormPrincipal.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormRecortarImg.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.FormVoltear.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.Presentaciones.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.Referencia.resources
+C:\Users\Sergio\Desktop\Final de los Finales\ImagenForm\obj\x86\Debug\ImagenForm.csproj.GenerateResource.Cache
